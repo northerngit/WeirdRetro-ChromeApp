@@ -5,7 +5,7 @@
   "minimum_chrome_version": "37.0.0.0",
   "permissions": ["webview", "storage", "pointerLock", "system.display", {
     "fileSystem": ["write", "retainEntries", "directory"]
-  }, "accessibilityFeatures.read", "accessibilityFeatures.modify"],
+  }],
   "app": {
     "background": {
       "scripts": ["js/foam.js", "js/cab.js", "config.js", "background_main.js"]
