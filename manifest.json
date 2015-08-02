@@ -1,6 +1,6 @@
 {
   "name": "Weird Retro",
-  "version": "1.1",
+  "version": "1.2",
   "manifest_version": 2,
   "minimum_chrome_version": "37.0.0.0",
   "permissions": ["webview", "storage", "pointerLock", "system.display" ],
