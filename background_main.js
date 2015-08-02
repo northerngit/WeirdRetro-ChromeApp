@@ -14,8 +14,8 @@ var runApp = function() {
       'designer_view.html',
       {
         id: 'KioskDesignerWindow',
-        width: 1100,
-        height: 720,
+        width: 1280,
+        height: 1024,
         minWidth: 800,
         minHeight: 600
       },
