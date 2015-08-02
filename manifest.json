@@ -1,6 +1,7 @@
 {
   "name": "Weird Retro",
-  "version": "1.2",
+  "description": "A digital cabinet of curiosities. A retro repository of ethereal ephemera.",
+  "version": "1.3",
   "manifest_version": 2,
   "minimum_chrome_version": "37.0.0.0",
   "permissions": ["webview", "storage", "pointerLock", "system.display" ],
